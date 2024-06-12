@@ -8,7 +8,7 @@ import { MdLogout } from "react-icons/md";
 
 export default function LeftSidebar() {
   return (
-    <div>
+    <div className='w-[20%]'>
       <div>
         <div>
             <img width= {"40px"} src="https://static.vecteezy.com/system/resources/previews/031/737/227/non_2x/twitter-new-logo-twitter-icons-new-twitter-logo-x-2023-x-social-media-icon-free-png.png" alt='X-logo'/>
